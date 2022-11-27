@@ -1,5 +1,6 @@
 ## Installing FFmpeg
-
+`sudo apt-get install build-essential`
+`sudo apt-get install yasm`
 1. Type `./configure` to create the configuration. A list of configure
 options is printed by running `configure --help`.
 
